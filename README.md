@@ -29,6 +29,7 @@ Total Revenue	$16.06M
 Lost Revenue	$2.86M
 
 🛠 Tech Stack
+Customer Retention Risk Analytics Dashboard built using Power BI to analyze telecom customer churn and retention trends.
 Data Visualization
 Power BI 
 Data Processing
