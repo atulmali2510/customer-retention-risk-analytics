@@ -8,5 +8,11 @@ The main objective of this project is to help businesses identify churn risks an
 [▶ Watch Dashboard Demo](recording.mp4)
 
 📷 Dashboard Preview
-Customer Retention Overview
-![Dashboard](images/1st page .png)
+Customer Retention
+![Dashboard](images/1st.png)
+Customer Churn Analysis
+![Dashboard](images/2nd.png)
+Table Overview
+![Dashboard](images/3rd.png)
+Decomposition Tree Analysis
+![Dashboard](images/4th.png)
