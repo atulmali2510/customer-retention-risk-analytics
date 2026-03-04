@@ -9,7 +9,7 @@ The main objective of this project is to help businesses identify churn risks an
 
 📷 Dashboard Preview
 Customer Retention
-![Dashboard](images/1st.png)
+![Dashboard](1st.png)
 
 Customer Churn Analysis
 ![Dashboard](images/2nd.png)
