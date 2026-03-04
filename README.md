@@ -81,3 +81,9 @@ Internet Service Analysis
 Fiber optic service contributes the highest revenue but also shows churn patterns.
 Customer Retention
 Customers with long-term contracts and automatic payments show better retention.
+
+## Also Visit our related Repo..Details Overview
+
+### https://github.com/atulmali2510/customer-retention-risk-analytics-with-SQL
+### https://github.com/atulmali2510/customer-retention-risk-analytics-with-Excel 
+
