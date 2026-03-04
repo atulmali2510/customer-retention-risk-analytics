@@ -6,3 +6,7 @@ The main objective of this project is to help businesses identify churn risks an
 
 🎥 Dashboard Demo Video
 [▶ Watch Dashboard Demo](recording.mp4)
+
+📷 Dashboard Preview
+Customer Retention Overview
+![Dashboard](images/1st_page_.png)
